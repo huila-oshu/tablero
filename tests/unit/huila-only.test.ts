@@ -6,11 +6,11 @@ import { buildPages, loadAllDatasets } from '@/lib/pageFactory'
 describe('Huila-only dashboard', () => {
   it('keeps only the verified Huila dataset and removes demo analytics and maps', async () => {
     expect(app.local).toBe('Huila')
-    expect(priorities).toHaveLength(0)
+    expect(priorities.map((p) => p.slug)).toEqual(['mortalidad-materna'])
     expect(app.features).toEqual({ map: false, scatter: false })
     expect(app.datasets).toBeUndefined()
-    expect(readdirSync('public/data/csv').filter((name) => !name.startsWith('.'))).toEqual(['pobreza-multidimensional.csv'])
-    expect(readdirSync('public/data/parquet').filter((name) => !name.startsWith('.'))).toEqual(['pobreza-multidimensional.parquet'])
+    expect(readdirSync('public/data/csv').filter((name) => !name.startsWith('.'))).toEqual(['mortalidad-materna.csv', 'pobreza-multidimensional.csv'])
+    expect(readdirSync('public/data/parquet').filter((name) => !name.startsWith('.'))).toEqual(['mortalidad-materna.parquet', 'pobreza-multidimensional.parquet'])
     const datasets = await loadAllDatasets()
     expect(Object.keys(datasets.stratifiedData)).toEqual(['pobreza-multidimensional'])
     expect(datasets.stratifiedData['pobreza-multidimensional'].every((row) => row.territorio === 'Huila')).toBe(true)
@@ -19,6 +19,6 @@ describe('Huila-only dashboard', () => {
     expect(datasets.forestPlotData).toHaveLength(0)
     const routes = buildPages(datasets).map((page) => page.slug)
     expect(routes).not.toContain('mortalidad-materna')
-    expect(routes).not.toContain('analisis/mortalidad-materna')
+    expect(routes).toContain('analisis/mortalidad-materna')
   })
 })

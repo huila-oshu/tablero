@@ -1,0 +1,858 @@
+iso3,territorio,cod_local,anio,zona,valor,indicador
+COL,Huila,41,2026,No aplica,15.688735487919672,Razón de mortalidad materna
+COL,Neiva,41001,2026,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2026,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2026,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2026,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2026,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2026,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2026,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2026,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2026,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2026,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2026,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2026,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2026,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2026,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2026,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2026,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2026,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2026,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2026,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2026,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2026,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2026,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2026,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2026,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2026,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2026,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2026,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2026,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2026,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2026,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2026,Centro,1250,Razón de mortalidad materna
+COL,Tesalia,41797,2026,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2026,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2026,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2026,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2026,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2026,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2025,No aplica,39.19959047957241,Razón de mortalidad materna
+COL,Huila,41,2025,No aplica,40,Razón de mortalidad materna
+COL,Neiva,41001,2025,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2025,Sur,211.864406779661,Razón de mortalidad materna
+COL,Agrado,41013,2025,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2025,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2025,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2025,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2025,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2025,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2025,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2025,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2025,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2025,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2025,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2025,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2025,Norte,746.2686567164179,Razón de mortalidad materna
+COL,Isnos,41359,2025,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2025,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2025,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2025,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2025,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2025,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2025,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2025,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2025,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2025,Sur,106.95187165775401,Razón de mortalidad materna
+COL,Rivera,41615,2025,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2025,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2025,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2025,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2025,Centro,361.01083032490976,Razón de mortalidad materna
+COL,Tarqui,41791,2025,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2025,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2025,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2025,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2025,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2025,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2025,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2024,No aplica,40.5374740306807,Razón de mortalidad materna
+COL,Huila,41,2024,No aplica,53.937432578209275,Razón de mortalidad materna
+COL,Neiva,41001,2024,Norte,49.6031746031746,Razón de mortalidad materna
+COL,Acevedo,41006,2024,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2024,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2024,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2024,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2024,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2024,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2024,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2024,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2024,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2024,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2024,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2024,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2024,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2024,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2024,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2024,Occidente,671.1409395973154,Razón de mortalidad materna
+COL,La Plata,41396,2024,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2024,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2024,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2024,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2024,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2024,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2024,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2024,Sur,53.361792956243335,Razón de mortalidad materna
+COL,Rivera,41615,2024,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2024,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2024,Sur,664.4518272425249,Razón de mortalidad materna
+COL,Santa María,41676,2024,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2024,Centro,312.5,Razón de mortalidad materna
+COL,Tarqui,41791,2024,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2024,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2024,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2024,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2024,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2024,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2024,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2023,No aplica,43.4488283363948,Razón de mortalidad materna
+COL,Huila,41,2023,No aplica,26.54632333421821,Razón de mortalidad materna
+COL,Neiva,41001,2023,Norte,22.075055187637968,Razón de mortalidad materna
+COL,Acevedo,41006,2023,Sur,190.47619047619048,Razón de mortalidad materna
+COL,Agrado,41013,2023,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2023,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2023,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2023,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2023,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2023,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2023,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2023,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2023,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2023,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2023,Centro,384.61538461538464,Razón de mortalidad materna
+COL,Hobo,41349,2023,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2023,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2023,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2023,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2023,Occidente,94.7867298578199,Razón de mortalidad materna
+COL,Nátaga,41483,2023,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2023,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2023,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2023,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2023,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2023,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2023,Sur,47.7326968973747,Razón de mortalidad materna
+COL,Rivera,41615,2023,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2023,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2023,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2023,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2023,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2023,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2023,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2023,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2023,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2023,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2023,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2023,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2022,No aplica,45.500108956199604,Razón de mortalidad materna
+COL,Huila,41,2022,No aplica,30.82804118626302,Razón de mortalidad materna
+COL,Neiva,41001,2022,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2022,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2022,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2022,Norte,421.94092827004215,Razón de mortalidad materna
+COL,Algeciras,41020,2022,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2022,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2022,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2022,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2022,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2022,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2022,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2022,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2022,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2022,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2022,Norte,537.6344086021505,Razón de mortalidad materna
+COL,Isnos,41359,2022,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2022,Occidente,523.5602094240838,Razón de mortalidad materna
+COL,La Plata,41396,2022,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2022,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2022,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2022,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2022,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2022,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2022,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2022,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2022,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2022,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2022,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2022,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2022,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2022,Centro,403.22580645161287,Razón de mortalidad materna
+COL,Tesalia,41797,2022,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2022,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2022,Norte,900.9009009009009,Razón de mortalidad materna
+COL,Timaná,41807,2022,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2022,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2022,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2021,No aplica,73.9162995166263,Razón de mortalidad materna
+COL,Huila,41,2021,No aplica,46.258818087197874,Razón de mortalidad materna
+COL,Neiva,41001,2021,Norte,98.61932938856016,Razón de mortalidad materna
+COL,Acevedo,41006,2021,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2021,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2021,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2021,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2021,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2021,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2021,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2021,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2021,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2021,Centro,79.1765637371338,Razón de mortalidad materna
+COL,Gigante,41306,2021,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2021,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2021,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2021,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2021,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2021,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2021,Occidente,85.6898029134533,Razón de mortalidad materna
+COL,Nátaga,41483,2021,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2021,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2021,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2021,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2021,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2021,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2021,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2021,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2021,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2021,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2021,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2021,Centro,258.3979328165375,Razón de mortalidad materna
+COL,Tarqui,41791,2021,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2021,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2021,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2021,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2021,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2021,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2021,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2020,No aplica,64.02903073075713,Razón de mortalidad materna
+COL,Huila,41,2020,No aplica,29.74243055142466,Razón de mortalidad materna
+COL,Neiva,41001,2020,Norte,38.74467260751647,Razón de mortalidad materna
+COL,Acevedo,41006,2020,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2020,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2020,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2020,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2020,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2020,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2020,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2020,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2020,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2020,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2020,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2020,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2020,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2020,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2020,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2020,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2020,Occidente,85.32423208191126,Razón de mortalidad materna
+COL,Nátaga,41483,2020,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2020,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2020,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2020,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2020,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2020,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2020,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2020,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2020,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2020,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2020,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2020,Centro,573.0659025787966,Razón de mortalidad materna
+COL,Tarqui,41791,2020,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2020,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2020,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2020,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2020,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2020,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2020,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2019,No aplica,50.72666728907976,Razón de mortalidad materna
+COL,Huila,41,2019,No aplica,23.273404317216507,Razón de mortalidad materna
+COL,Neiva,41001,2019,Norte,18.528812303131367,Razón de mortalidad materna
+COL,Acevedo,41006,2019,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2019,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2019,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2019,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2019,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2019,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2019,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2019,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2019,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2019,Centro,89.20606601248885,Razón de mortalidad materna
+COL,Gigante,41306,2019,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2019,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2019,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2019,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2019,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2019,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2019,Occidente,91.82736455463728,Razón de mortalidad materna
+COL,Nátaga,41483,2019,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2019,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2019,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2019,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2019,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2019,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2019,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2019,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2019,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2019,Sur,236.96682464454977,Razón de mortalidad materna
+COL,Santa María,41676,2019,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2019,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2019,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2019,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2019,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2019,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2019,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2019,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2019,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2018,No aplica,45.292436625251305,Razón de mortalidad materna
+COL,Huila,41,2018,No aplica,10.765421466250404,Razón de mortalidad materna
+COL,Neiva,41001,2018,Norte,16.725204883759826,Razón de mortalidad materna
+COL,Acevedo,41006,2018,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2018,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2018,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2018,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2018,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2018,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2018,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2018,Norte,934.5794392523363,Razón de mortalidad materna
+COL,Elías,41244,2018,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2018,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2018,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2018,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2018,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2018,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2018,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2018,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2018,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2018,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2018,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2018,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2018,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2018,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2018,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2018,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2018,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2018,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2018,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2018,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2018,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2018,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2018,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2018,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2018,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2018,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2018,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2018,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2017,No aplica,51.01232823311568,Razón de mortalidad materna
+COL,Huila,41,2017,No aplica,20.31591243841739,Razón de mortalidad materna
+COL,Neiva,41001,2017,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2017,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2017,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2017,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2017,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2017,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2017,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2017,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2017,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2017,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2017,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2017,Centro,277.0083102493075,Razón de mortalidad materna
+COL,Guadalupe,41319,2017,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2017,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2017,Norte,473.93364928909955,Razón de mortalidad materna
+COL,Isnos,41359,2017,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2017,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2017,Occidente,80.45052292839902,Razón de mortalidad materna
+COL,Nátaga,41483,2017,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2017,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2017,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2017,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2017,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2017,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2017,Sur,37.174721189591075,Razón de mortalidad materna
+COL,Rivera,41615,2017,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2017,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2017,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2017,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2017,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2017,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2017,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2017,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2017,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2017,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2017,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2017,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2016,No aplica,51.272468383264794,Razón de mortalidad materna
+COL,Huila,41,2016,No aplica,30.872137895549265,Razón de mortalidad materna
+COL,Neiva,41001,2016,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2016,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2016,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2016,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2016,Norte,324.67532467532476,Razón de mortalidad materna
+COL,Altamira,41026,2016,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2016,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2016,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2016,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2016,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2016,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2016,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2016,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2016,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2016,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2016,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2016,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2016,Occidente,150.60240963855424,Razón de mortalidad materna
+COL,Nátaga,41483,2016,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2016,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2016,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2016,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2016,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2016,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2016,Sur,40.08016032064128,Razón de mortalidad materna
+COL,Rivera,41615,2016,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2016,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2016,Sur,182.81535648994515,Razón de mortalidad materna
+COL,Santa María,41676,2016,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2016,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2016,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2016,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2016,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2016,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2016,Sur,343.64261168384877,Razón de mortalidad materna
+COL,Villavieja,41872,2016,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2016,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2015,No aplica,53.706586545516714,Razón de mortalidad materna
+COL,Huila,41,2015,No aplica,25.584608299646934,Razón de mortalidad materna
+COL,Neiva,41001,2015,Norte,29.45074363127669,Razón de mortalidad materna
+COL,Acevedo,41006,2015,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2015,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2015,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2015,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2015,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2015,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2015,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2015,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2015,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2015,Centro,76.45259938837923,Razón de mortalidad materna
+COL,Gigante,41306,2015,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2015,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2015,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2015,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2015,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2015,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2015,Occidente,83.12551953449709,Razón de mortalidad materna
+COL,Nátaga,41483,2015,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2015,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2015,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2015,Norte,253.80710659898475,Razón de mortalidad materna
+COL,Palestina,41530,2015,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2015,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2015,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2015,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2015,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2015,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2015,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2015,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2015,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2015,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2015,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2015,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2015,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2015,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2015,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2014,No aplica,53.651195495092935,Razón de mortalidad materna
+COL,Huila,41,2014,No aplica,14.871362712536557,Razón de mortalidad materna
+COL,Neiva,41001,2014,Norte,0,Razón de mortalidad materna
+COL,Acevedo,41006,2014,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2014,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2014,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2014,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2014,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2014,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2014,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2014,Norte,900.9009009009009,Razón de mortalidad materna
+COL,Elías,41244,2014,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2014,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2014,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2014,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2014,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2014,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2014,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2014,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2014,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2014,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2014,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2014,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2014,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2014,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2014,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2014,Sur,38.28483920367535,Razón de mortalidad materna
+COL,Rivera,41615,2014,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2014,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2014,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2014,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2014,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2014,Centro,386.1003861003861,Razón de mortalidad materna
+COL,Tesalia,41797,2014,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2014,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2014,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2014,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2014,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2014,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2013,No aplica,55.24903807478351,Razón de mortalidad materna
+COL,Huila,41,2013,No aplica,33.76422921088173,Razón de mortalidad materna
+COL,Neiva,41001,2013,Norte,56.76979846721544,Razón de mortalidad materna
+COL,Acevedo,41006,2013,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2013,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2013,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2013,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2013,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2013,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2013,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2013,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2013,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2013,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2013,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2013,Centro,301.20481927710847,Razón de mortalidad materna
+COL,Hobo,41349,2013,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2013,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2013,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2013,Occidente,396.8253968253968,Razón de mortalidad materna
+COL,La Plata,41396,2013,Occidente,85.68980291345332,Razón de mortalidad materna
+COL,Nátaga,41483,2013,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2013,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2013,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2013,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2013,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2013,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2013,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2013,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2013,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2013,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2013,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2013,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2013,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2013,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2013,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2013,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2013,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2013,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2013,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2012,No aplica,65.89493746629533,Razón de mortalidad materna
+COL,Huila,41,2012,No aplica,33.42405577042449,Razón de mortalidad materna
+COL,Neiva,41001,2012,Norte,27.99160251924423,Razón de mortalidad materna
+COL,Acevedo,41006,2012,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2012,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2012,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2012,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2012,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2012,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2012,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2012,Norte,769.2307692307693,Razón de mortalidad materna
+COL,Elías,41244,2012,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2012,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2012,Centro,228.83295194508008,Razón de mortalidad materna
+COL,Guadalupe,41319,2012,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2012,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2012,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2012,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2012,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2012,Occidente,84.03361344537815,Razón de mortalidad materna
+COL,Nátaga,41483,2012,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2012,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2012,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2012,Norte,288.1844380403458,Razón de mortalidad materna
+COL,Palestina,41530,2012,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2012,Centro,358.42293906810033,Razón de mortalidad materna
+COL,Pitalito,41551,2012,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2012,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2012,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2012,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2012,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2012,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2012,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2012,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2012,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2012,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2012,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2012,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2012,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2011,No aplica,68.82053917436389,Razón de mortalidad materna
+COL,Huila,41,2011,No aplica,54.96427322240543,Razón de mortalidad materna
+COL,Neiva,41001,2011,Norte,14.86104919007282,Razón de mortalidad materna
+COL,Acevedo,41006,2011,Sur,155.76323987538942,Razón de mortalidad materna
+COL,Agrado,41013,2011,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2011,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2011,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2011,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2011,Norte,934.5794392523363,Razón de mortalidad materna
+COL,Campoalegre,41132,2011,Norte,193.42359767891682,Razón de mortalidad materna
+COL,Colombia,41206,2011,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2011,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2011,Centro,76.33587786259542,Razón de mortalidad materna
+COL,Gigante,41306,2011,Centro,263.8522427440633,Razón de mortalidad materna
+COL,Guadalupe,41319,2011,Centro,298.5074626865672,Razón de mortalidad materna
+COL,Hobo,41349,2011,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2011,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2011,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2011,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2011,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2011,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2011,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2011,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2011,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2011,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2011,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2011,Sur,118.85895404120444,Razón de mortalidad materna
+COL,Rivera,41615,2011,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2011,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2011,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2011,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2011,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2011,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2011,Occidente,507.6142131979695,Razón de mortalidad materna
+COL,Tello,41799,2011,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2011,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2011,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2011,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2011,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2010,No aplica,71.64385214786437,Razón de mortalidad materna
+COL,Huila,41,2010,No aplica,48.12834224598931,Razón de mortalidad materna
+COL,Neiva,41001,2010,Norte,50.7013689369613,Razón de mortalidad materna
+COL,Acevedo,41006,2010,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2010,Centro,591.7159763313609,Razón de mortalidad materna
+COL,Aipe,41016,2010,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2010,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2010,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2010,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2010,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2010,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2010,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2010,Centro,76.98229407236335,Razón de mortalidad materna
+COL,Gigante,41306,2010,Centro,268.0965147453083,Razón de mortalidad materna
+COL,Guadalupe,41319,2010,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2010,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2010,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2010,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2010,Occidente,400,Razón de mortalidad materna
+COL,La Plata,41396,2010,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2010,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2010,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2010,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2010,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2010,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2010,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2010,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2010,Norte,386.1003861003861,Razón de mortalidad materna
+COL,Saladoblanco,41660,2010,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2010,Sur,204.08163265306123,Razón de mortalidad materna
+COL,Santa María,41676,2010,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2010,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2010,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2010,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2010,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2010,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2010,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2010,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2010,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2009,No aplica,67.30734879068272,Razón de mortalidad materna
+COL,Huila,41,2009,No aplica,20.186727226848348,Razón de mortalidad materna
+COL,Neiva,41001,2009,Norte,15.807777426493836,Razón de mortalidad materna
+COL,Acevedo,41006,2009,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2009,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2009,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2009,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2009,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2009,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2009,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2009,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2009,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2009,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2009,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2009,Centro,303.030303030303,Razón de mortalidad materna
+COL,Hobo,41349,2009,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2009,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2009,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2009,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2009,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2009,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2009,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2009,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2009,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2009,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2009,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2009,Sur,79.80845969672785,Razón de mortalidad materna
+COL,Rivera,41615,2009,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2009,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2009,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2009,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2009,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2009,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2009,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2009,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2009,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2009,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2009,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2009,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2008,No aplica,60.660868009498884,Razón de mortalidad materna
+COL,Huila,41,2008,No aplica,38.919970810021894,Razón de mortalidad materna
+COL,Neiva,41001,2008,Norte,45.64125969876768,Razón de mortalidad materna
+COL,Acevedo,41006,2008,Sur,154.5595054095827,Razón de mortalidad materna
+COL,Agrado,41013,2008,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2008,Norte,0,Razón de mortalidad materna
+COL,Algeciras,41020,2008,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2008,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2008,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2008,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2008,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2008,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2008,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2008,Centro,227.27272727272725,Razón de mortalidad materna
+COL,Guadalupe,41319,2008,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2008,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2008,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2008,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2008,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2008,Occidente,85.25149190110827,Razón de mortalidad materna
+COL,Nátaga,41483,2008,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2008,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2008,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2008,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2008,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2008,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2008,Sur,37.439161362785484,Razón de mortalidad materna
+COL,Rivera,41615,2008,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2008,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2008,Sur,0,Razón de mortalidad materna
+COL,Santa María,41676,2008,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2008,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2008,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2008,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2008,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2008,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2008,Sur,289.01734104046244,Razón de mortalidad materna
+COL,Villavieja,41872,2008,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2008,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2007,No aplica,72.0476332140999,Razón de mortalidad materna
+COL,Huila,41,2007,No aplica,66.746126340882,Razón de mortalidad materna
+COL,Neiva,41001,2007,Norte,64.30868167202573,Razón de mortalidad materna
+COL,Acevedo,41006,2007,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2007,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2007,Norte,310.5590062111801,Razón de mortalidad materna
+COL,Algeciras,41020,2007,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2007,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2007,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2007,Norte,0,Razón de mortalidad materna
+COL,Colombia,41206,2007,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2007,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2007,Centro,0,Razón de mortalidad materna
+COL,Gigante,41306,2007,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2007,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2007,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2007,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2007,Sur,261.0966057441253,Razón de mortalidad materna
+COL,La Argentina,41378,2007,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2007,Occidente,240.3846153846154,Razón de mortalidad materna
+COL,Nátaga,41483,2007,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2007,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2007,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2007,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2007,Sur,440.5286343612336,Razón de mortalidad materna
+COL,Pital,41548,2007,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2007,Sur,75.52870090634441,Razón de mortalidad materna
+COL,Rivera,41615,2007,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2007,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2007,Sur,155.76323987538942,Razón de mortalidad materna
+COL,Santa María,41676,2007,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2007,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2007,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2007,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2007,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2007,Norte,595.2380952380952,Razón de mortalidad materna
+COL,Timaná,41807,2007,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2007,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2007,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2006,No aplica,71.38358177619148,Razón de mortalidad materna
+COL,Huila,41,2006,No aplica,81.0604615678047,Razón de mortalidad materna
+COL,Neiva,41001,2006,Norte,65.71381632988336,Razón de mortalidad materna
+COL,Acevedo,41006,2006,Sur,135.50135501355012,Razón de mortalidad materna
+COL,Agrado,41013,2006,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2006,Norte,692.0415224913495,Razón de mortalidad materna
+COL,Algeciras,41020,2006,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2006,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2006,Norte,662.2516556291392,Razón de mortalidad materna
+COL,Campoalegre,41132,2006,Norte,146.19883040935673,Razón de mortalidad materna
+COL,Colombia,41206,2006,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2006,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2006,Centro,61.80469715698393,Razón de mortalidad materna
+COL,Gigante,41306,2006,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2006,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2006,Norte,943.3962264150942,Razón de mortalidad materna
+COL,Íquira,41357,2006,Norte,952.3809523809526,Razón de mortalidad materna
+COL,Isnos,41359,2006,Sur,252.52525252525254,Razón de mortalidad materna
+COL,La Argentina,41378,2006,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2006,Occidente,86.4304235090752,Razón de mortalidad materna
+COL,Nátaga,41483,2006,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2006,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2006,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2006,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2006,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2006,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2006,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2006,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2006,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2006,Sur,171.82130584192439,Razón de mortalidad materna
+COL,Santa María,41676,2006,Norte,452.4886877828056,Razón de mortalidad materna
+COL,Suaza,41770,2006,Centro,0,Razón de mortalidad materna
+COL,Tarqui,41791,2006,Centro,0,Razón de mortalidad materna
+COL,Tesalia,41797,2006,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2006,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2006,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2006,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2006,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2006,Norte,0,Razón de mortalidad materna
+COL,Nacional,0,2005,No aplica,70.14200631139161,Razón de mortalidad materna
+COL,Huila,41,2005,No aplica,38.32702534374551,Razón de mortalidad materna
+COL,Neiva,41001,2005,Norte,34.51846738004832,Razón de mortalidad materna
+COL,Acevedo,41006,2005,Sur,0,Razón de mortalidad materna
+COL,Agrado,41013,2005,Centro,0,Razón de mortalidad materna
+COL,Aipe,41016,2005,Norte,301.20481927710847,Razón de mortalidad materna
+COL,Algeciras,41020,2005,Norte,0,Razón de mortalidad materna
+COL,Altamira,41026,2005,Centro,0,Razón de mortalidad materna
+COL,Baraya,41078,2005,Norte,0,Razón de mortalidad materna
+COL,Campoalegre,41132,2005,Norte,143.0615164520744,Razón de mortalidad materna
+COL,Colombia,41206,2005,Norte,0,Razón de mortalidad materna
+COL,Elías,41244,2005,Sur,0,Razón de mortalidad materna
+COL,Garzón,41298,2005,Centro,63.85696040868455,Razón de mortalidad materna
+COL,Gigante,41306,2005,Centro,0,Razón de mortalidad materna
+COL,Guadalupe,41319,2005,Centro,0,Razón de mortalidad materna
+COL,Hobo,41349,2005,Norte,0,Razón de mortalidad materna
+COL,Íquira,41357,2005,Norte,0,Razón de mortalidad materna
+COL,Isnos,41359,2005,Sur,0,Razón de mortalidad materna
+COL,La Argentina,41378,2005,Occidente,0,Razón de mortalidad materna
+COL,La Plata,41396,2005,Occidente,0,Razón de mortalidad materna
+COL,Nátaga,41483,2005,Occidente,0,Razón de mortalidad materna
+COL,Oporapa,41503,2005,Sur,0,Razón de mortalidad materna
+COL,Paicol,41518,2005,Occidente,0,Razón de mortalidad materna
+COL,Palermo,41524,2005,Norte,0,Razón de mortalidad materna
+COL,Palestina,41530,2005,Sur,0,Razón de mortalidad materna
+COL,Pital,41548,2005,Centro,0,Razón de mortalidad materna
+COL,Pitalito,41551,2005,Sur,0,Razón de mortalidad materna
+COL,Rivera,41615,2005,Norte,0,Razón de mortalidad materna
+COL,Saladoblanco,41660,2005,Sur,0,Razón de mortalidad materna
+COL,San Agustín,41668,2005,Sur,176.05633802816902,Razón de mortalidad materna
+COL,Santa María,41676,2005,Norte,0,Razón de mortalidad materna
+COL,Suaza,41770,2005,Centro,305.8103975535169,Razón de mortalidad materna
+COL,Tarqui,41791,2005,Centro,244.49877750611248,Razón de mortalidad materna
+COL,Tesalia,41797,2005,Occidente,0,Razón de mortalidad materna
+COL,Tello,41799,2005,Norte,0,Razón de mortalidad materna
+COL,Teruel,41801,2005,Norte,0,Razón de mortalidad materna
+COL,Timaná,41807,2005,Sur,0,Razón de mortalidad materna
+COL,Villavieja,41872,2005,Norte,0,Razón de mortalidad materna
+COL,Yaguará,41885,2005,Norte,0,Razón de mortalidad materna

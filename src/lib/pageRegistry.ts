@@ -6,6 +6,7 @@ import Welcome from '@/components/Welcome.astro'
 import PrioritySDoH from '@/components/priority/PrioritySDoH.astro'
 import PrioritySelector from '@/components/PrioritySelector.astro'
 import StratifiedIndicator from '@/components/StratifiedIndicator.astro'
+import MaternalAnalysis from '@/components/priority/MaternalAnalysis.astro'
 
 import type {
   PriorityRow,
@@ -223,8 +224,20 @@ const indicatorEntries: Record<string, PageRegistryEntry> = Object.fromEntries(
   ]),
 )
 
+const maternalEntries: Record<string, PageRegistryEntry> = priorities.some((p) => p.slug === 'mortalidad-materna') ? {
+  'analisis-de-inequidad/mortalidad-materna': {
+    component: MaternalAnalysis,
+    resolveProps: ({ title, text, data }, baseUrl) => ({ title, text, data: data ?? [], mode: 'priority', csvPath: csvUrl(baseUrl, 'mortalidad-materna.csv') }),
+  },
+  'analisis/mortalidad-materna': {
+    component: MaternalAnalysis,
+    resolveProps: ({ title, data, stratifiedData }, baseUrl) => ({ title, data: data ?? [], poverty: stratifiedData ?? [], mode: 'advanced', text: 'Análisis exploratorio de los años comunes de mortalidad materna y pobreza multidimensional del Huila.', csvPath: csvUrl(baseUrl, 'mortalidad-materna.csv') }),
+  },
+} : {}
+
 export const pageRegistry: Record<string, PageRegistryEntry> = {
   ...staticEntries,
   ...priorityEntries,
   ...indicatorEntries,
+  ...maternalEntries,
 }
