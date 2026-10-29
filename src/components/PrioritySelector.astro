@@ -54,6 +54,14 @@ const showDimensionToggle = section === 'determinantes-de-la-salud'
       )
     }
 
+    {priorities.length === 0 && (
+      <p class="rounded-lg border border-gray-200 bg-gray-50 p-4 text-black">
+        {section === 'analisis'
+          ? 'El análisis avanzado estará disponible cuando se incorporen los indicadores priorizados y los datos reales necesarios del Huila.'
+          : 'Los análisis de inequidad estarán disponibles cuando se incorporen indicadores priorizados y datos reales desagregados del Huila.'}
+      </p>
+    )}
+
     <ul class="flex gap-2">
       {
         priorities.map((priority) => (

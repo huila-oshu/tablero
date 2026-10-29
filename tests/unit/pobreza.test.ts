@@ -19,12 +19,11 @@ describe('Huila poverty series from the committed DANE outputs', () => {
     expect(buildPages(datasets).find((page) => page.slug === indicator.slug)?.stratifiedData).toEqual(rows)
   })
 
-  it('preserves the existing proportion scaling when a multiplier is absent', async () => {
+  it('retains the default proportion scaling for indicators without a multiplier', async () => {
     const datasets = await loadAllDatasets()
-    const indicator = indicators.find((ind) => ind.slug === 'traslado')!
-    const rows = datasets.stratifiedData[indicator.slug]
-    const row = rows.find((r) => (indicator.stratifiers ?? []).every((s) => r[s] === 'Total'))!
-    expect(row).toBeDefined()
-    expect(pivotData([row], 'total', indicator.stratifiers ?? [], indicator).chartData[0].Total).toBe(row.valor * 100)
+    const indicator = indicators.find((ind) => ind.slug === 'pobreza-multidimensional')!
+    const row = datasets.stratifiedData[indicator.slug][0]
+    const { valueMultiplier, ...defaultIndicator } = indicator
+    expect(pivotData([row], 'total', [], defaultIndicator).chartData[0].Total).toBe(row.valor * 100)
   })
 })

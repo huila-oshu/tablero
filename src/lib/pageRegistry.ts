@@ -65,8 +65,11 @@ const staticEntries: Record<string, PageRegistryEntry> = {
     resolveProps: ({ title, text, slug }) => ({ title, text, section: slug }),
   },
   'determinantes-de-la-salud': {
-    component: PrioritySelector,
-    resolveProps: ({ title, text, slug }) => ({ title, text, section: slug }),
+    component: PrioritySDoH,
+    resolveProps: ({ title }) => ({
+      title,
+      text: 'Indicadores disponibles para el seguimiento de los determinantes sociales de la salud del Huila.',
+    }),
   },
   analisis: {
     component: PrioritySelector,
