@@ -65,8 +65,11 @@ const staticEntries: Record<string, PageRegistryEntry> = {
     resolveProps: ({ title, text, slug }) => ({ title, text, section: slug }),
   },
   'determinantes-de-la-salud': {
-    component: PrioritySelector,
-    resolveProps: ({ title, text, slug }) => ({ title, text, section: slug }),
+    component: PrioritySDoH,
+    resolveProps: ({ title }) => ({
+      title,
+      text: 'Indicadores disponibles para el seguimiento de los determinantes sociales de la salud del Huila.',
+    }),
   },
   analisis: {
     component: PrioritySelector,
@@ -207,7 +210,7 @@ const indicatorEntries: Record<string, PageRegistryEntry> = Object.fromEntries(
         indicator: ind,
         yAxisLabel: ind.axisLabel,
         csvPath: csvUrl(baseUrl, `${ind.slug}.csv`),
-        geojsonUrls: app.features.map
+        geojsonUrls: app.features.map && ind.map !== false
           ? Object.fromEntries(
               dataYears(stratifiedData).map((yr) => [
                 yr,

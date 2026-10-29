@@ -1,67 +1,27 @@
-# @ops-dss/starter-local-astro
+# Sistema de Monitoreo de Determinantes Sociales de la Salud del Huila
 
-Part of the DSS (Determinantes Sociales de la Salud) Health Indicators Monitoring System.
+Observatorio de Salud del Huila — Secretaría de Salud Departamental.
 
-## The Priority Problem Model
+## Datos disponibles
 
-Every DSS dashboard is organized around one or more **priority problems**, each
-measured by a **priority indicator**. This is the central design decision of a
-locality's dashboard — everything else hangs off it:
+Pobreza multidimensional del Huila: incidencia total departamental, 2018–2025, en porcentaje.
 
-- This **starter template** example uses a single priority indicator: **maternal
-  mortality**.
-- All other indicators are **social determinants of health (SDH)** indicators.
-  They appear under the social-determinants section, and the **"advanced
-  analysis" tab** analyzes how each of them relates to the priority indicator.
+- Fuente: [DANE, anexo departamental de pobreza multidimensional 2025](https://www.dane.gov.co/files/operaciones/PM/anex-PMultidimensional-Departamental-2025.xlsx), hoja `IPM_Departamentos`.
+- Procesamiento y resultados originales: [huila-oshu/dss-data-r](https://github.com/huila-oshu/dss-data-r/tree/main/src/indicators/dss/pobreza_multidimensional).
+- Archivos del tablero: `public/data/csv/pobreza-multidimensional.csv` y `public/data/parquet/pobreza-multidimensional.parquet`.
+- Sección: Determinantes Sociales de la Salud → Pobreza multidimensional del Huila.
 
-The priority problem is chosen by the locality (typically from its health
-situation analysis — in Colombia, for example, the ASIS). It is **never inherited from the
-template**: maternal mortality in the starter is an example, not a default.
+La configuración territorial usa Huila y conserva únicamente este indicador verificado. No se incluyen datos, mapas ni análisis de demostración. Las secciones de inequidad y análisis avanzado muestran un aviso hasta incorporar los indicadores priorizados y los datos reales necesarios. Los mapas y el análisis de dispersión están desactivados.
 
-## Multiple priorities
+## Desarrollo y validación
 
-Some localities have more than one priority problem. Then:
-
-- Each priority gets its own advanced-analysis view relating determinants to
-  *that* priority.
-- Determinant indicators are mapped **per priority** — a determinant may relate
-  to one priority, several, or all of them. The mapping is explicit, not
-  assumed.
-
-## Priorities as determinants of each other
-
-A priority indicator can itself act as a social determinant of *another*
-priority indicator — or not. Example: a locality prioritizing both adolescent
-pregnancy and maternal mortality may treat adolescent pregnancy as a
-determinant within the maternal-mortality analysis, while the reverse
-relationship may not hold. **This is locality-specific epidemiological
-judgment.
-
-## Development
-
-```bash
-npm install
+```sh
+npm ci
 npm run dev
-```
-
-## Building
-
-```bash
+npm test
 npm run build
 ```
 
-## CI/CD
+`app.config.json` define los indicadores y sus archivos. Para pobreza, `territory` selecciona Huila, `valueMultiplier: 1` conserva los porcentajes originales y `map: false` evita solicitar mapas que no existen para esta serie.
 
-**Important:** This repository includes two workflows used only for the internal maintenance of the template. After creating a new repository from this template, delete `.github/workflows/publish-to-npm.yml` and `.github/workflows/sync-to-monorepo.yml`. Keep `.github/workflows/deploy-pages.yml`, as it is used to publish the implementation to GitHub Pages.
-
-**Importante:** Este repositorio incluye dos workflows utilizados únicamente para el mantenimiento interno de la plantilla. Después de crear un nuevo repositorio usando esta plantilla, elimina `.github/workflows/publish-to-npm.yml` y `.github/workflows/sync-to-monorepo.yml`. Mantén `.github/workflows/deploy-pages.yml`, ya que este se utiliza para publicar la implementación en GitHub Pages.
-
-## Contributing
-
-Thank you for your interest in contributing! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
-Changes made to this repository will be automatically synced back to the main monorepo upon approval.
-
-## License
-
-MIT
+La compilación genera `dist/`. La publicación en GitHub Pages se realiza mediante el workflow existente al integrar cambios en `main`.
