@@ -40,7 +40,7 @@ const FALLBACK_COLORS = [
  * rows for the 'total' view): the selected stratifier column must not be at
  * its Total sentinel, while every other configured stratifier column must be.
  */
-function pivotData(
+export function pivotData(
   rows: StratifiedRow[],
   stratifier: IndicatorStratifier,
   stratifiers: IndicatorStratifier[],
@@ -62,7 +62,7 @@ function pivotData(
 
     keySet.add(key)
     if (!byYear.has(row.anio)) byYear.set(row.anio, { anio: row.anio })
-    byYear.get(row.anio)![key] = row.valor * 100
+    byYear.get(row.anio)![key] = row.valor * (indicator.valueMultiplier ?? 100)
   }
 
   const chartData = Array.from(byYear.entries())

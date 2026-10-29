@@ -4,6 +4,46 @@
   "national": "Colombia",
   "indicators": [
     {
+      "slug": "pobreza-multidimensional",
+      "title": "Pobreza multidimensional del Huila",
+      "description": "Evolución de la incidencia de la pobreza multidimensional en el total departamental del Huila, 2018–2025. Valores expresados en porcentaje.",
+      "date": "2026-10-29",
+      "dimension": "dss",
+      "subdimensions": [
+        "condiciones socioeconómicas"
+      ],
+      "source": "DANE — Pobreza multidimensional departamental 2025. Hoja IPM_Departamentos. https://www.dane.gov.co/files/operaciones/PM/anex-PMultidimensional-Departamental-2025.xlsx",
+      "label": "Pobreza multidimensional",
+      "axisLabel": "Población en pobreza multidimensional (%)",
+      "color": "#548235",
+      "totalColor": "#548235",
+      "territory": "Huila",
+      "valueMultiplier": 1,
+      "map": false,
+      "stratifiers": [],
+      "file": "pobreza-multidimensional.parquet",
+      "scheme": [
+        {
+          "name": "territorio",
+          "type": "string",
+          "role": "territory",
+          "index": 0
+        },
+        {
+          "name": "anio",
+          "type": "number",
+          "role": "year",
+          "index": 1
+        },
+        {
+          "name": "valor",
+          "type": "number",
+          "role": "value",
+          "index": 2
+        }
+      ]
+    },
+    {
       "slug": "mortalidad-materna",
       "title": "Razón de Mortalidad Materna",
       "description": "Registros locales de mortalidad materna / Estadísticas Vitales Municipales",

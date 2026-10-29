@@ -57,7 +57,7 @@ export async function loadAllDatasets(): Promise<PageDatasets> {
       ind.slug,
       ind.file,
       ind.scheme,
-      { territory: app.local },
+      { territory: ind.territory ?? app.local },
     )
   }
 
@@ -176,6 +176,7 @@ export function buildPages(datasets: PageDatasets): PageDefinition[] {
     slug: ind.slug,
     title: ind.title,
     description: ind.description,
+    text: ind.description,
     dimension: ind.dimension,
     subdimensions: ind.subdimensions,
     date: ind.date,

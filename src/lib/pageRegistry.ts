@@ -207,7 +207,7 @@ const indicatorEntries: Record<string, PageRegistryEntry> = Object.fromEntries(
         indicator: ind,
         yAxisLabel: ind.axisLabel,
         csvPath: csvUrl(baseUrl, `${ind.slug}.csv`),
-        geojsonUrls: app.features.map
+        geojsonUrls: app.features.map && ind.map !== false
           ? Object.fromEntries(
               dataYears(stratifiedData).map((yr) => [
                 yr,
