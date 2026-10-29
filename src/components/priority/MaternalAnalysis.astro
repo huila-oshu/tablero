@@ -1,0 +1,10 @@
+---
+import { MaternalDashboard } from './MaternalDashboard'
+const { title, text, data, poverty, mode, csvPath } = Astro.props
+---
+<div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-10 pb-10">
+  <h1 class="text-3xl font-bold my-6">{title}</h1>
+  <p class="text-black mb-6">{text}</p>
+  <MaternalDashboard client:load data={data} poverty={poverty} mode={mode} csvPath={csvPath} />
+  <p class="text-sm text-black mt-6">Fuente de mortalidad: resultados del <a class="underline" href="https://github.com/huila-oshu/dss-data-r/blob/f050ca5ede06e77379518e3c8feb70e928b3abe9/outputs/csv/razon_mortalidad_materna.csv">repositorio OSHU</a>. Se conservaron los valores publicados en CSV y Parquet. El corte y el carácter definitivo de las cifras no están documentados en estos resultados. Fuente de pobreza: DANE, anexo departamental 2025, hoja IPM_Departamentos.</p>
+</div>

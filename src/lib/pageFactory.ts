@@ -165,6 +165,8 @@ export function buildPages(datasets: PageDatasets): PageDefinition[] {
         category: 'Tendencia',
         navbar: false,
         priority: false,
+        data: datasets.priorityData[priority.slug],
+        stratifiedData: datasets.stratifiedData['pobreza-multidimensional'],
         forestPlotData: datasets.forestPlotData,
         analyticsData: datasets.analyticsData,
         scatterData: datasets.scatterData,

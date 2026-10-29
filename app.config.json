@@ -4,6 +4,58 @@
   "national": "Colombia",
   "indicators": [
     {
+      "slug": "mortalidad-materna",
+      "title": "Razón de mortalidad materna del Huila",
+      "description": "Defunciones maternas por cada 100.000 nacidos vivos. Serie departamental, nacional y municipal disponible en el repositorio OSHU.",
+      "date": "2026-10-29",
+      "category": "salud",
+      "priority": true,
+      "dimension": "dss",
+      "subdimensions": [
+        "salud materna"
+      ],
+      "related_priorities": [],
+      "label": "Mortalidad materna",
+      "axisLabel": "Muertes maternas por 100.000 nacidos vivos",
+      "color": "#b91c1c",
+      "totalColor": "#b91c1c",
+      "territory": "Huila",
+      "stratifiers": [],
+      "map": false,
+      "file": "mortalidad-materna.parquet",
+      "scheme": [
+        {
+          "name": "territorio",
+          "type": "string",
+          "role": "territory",
+          "index": 1
+        },
+        {
+          "name": "cod_local",
+          "type": "string",
+          "index": 2
+        },
+        {
+          "name": "anio",
+          "type": "number",
+          "role": "year",
+          "index": 3
+        },
+        {
+          "name": "subregion",
+          "type": "string",
+          "index": 4
+        },
+        {
+          "name": "valor",
+          "type": "number",
+          "role": "value",
+          "index": 5
+        }
+      ],
+      "source": "Observatorio de Salud del Huila — resultados del repositorio huila-oshu/dss-data-r (razon_mortalidad_materna.csv y .parquet)."
+    },
+    {
       "slug": "pobreza-multidimensional",
       "title": "Pobreza multidimensional del Huila",
       "description": "Evolución de la incidencia de la pobreza multidimensional en el total departamental del Huila, 2018–2025. Valores expresados en porcentaje.",
@@ -41,6 +93,9 @@
           "role": "value",
           "index": 2
         }
+      ],
+      "related_priorities": [
+        "mortalidad-materna"
       ]
     }
   ],
